@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **javascript, sass, css**
 
-- 📫 How to reach me **munosagustina@gmail.com**
+- 📫 How to reach me **agush2325@gmail.com**
 
 - ⚡ Fun fact **me apasiona el diseño y las artes visuales**
 
