@@ -1,7 +1,7 @@
-<h1 align="center">Hola, mi nombre es Agustina</h1>
-<h3 align="center">Una desarrolladora frontend apasionada</h3>
+<h1 align="center">Hola, mi nombre es Clarivel Agustina Muños Beron</h1>
+<h3 align="center">Una Desarrolladora Front End apasionada</h3>
 
-- 🌱 I’m currently learning **Tailwind,react js**
+- 🌱 I’m currently learning **Tailwind, react js**
 
 - 💬 Ask me about **javascript, sass, css**
 
